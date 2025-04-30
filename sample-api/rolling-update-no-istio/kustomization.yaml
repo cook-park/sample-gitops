@@ -8,6 +8,6 @@ resources:
 
 images:
 - name: cookpark/sample-api
-  newTag: 0.0.21
+  newTag: 0.0.22
 - name: oscka/sample-api
   newTag: 0.0.24
