@@ -8,4 +8,4 @@ resources:
 
 images:
 - name: cookpark/sample-api
-  newTag: 0.0.25
+  newTag: 0.0.26
